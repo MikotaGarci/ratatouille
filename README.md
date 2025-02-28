@@ -35,7 +35,7 @@
 ---
 
 ## Ліцензія
-Цей проект ліцензовано під MIT License. Детальніше див. у файлі [LICENSE]([LICENSE](https://github.com/MikotaGarci/ratatouille/blob/main/LICENSE)).
+Цей проект ліцензовано під MIT License. Детальніше див. у файлі [LICENSE]([LICENSE]).
 
 ---
 
