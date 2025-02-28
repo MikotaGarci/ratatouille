@@ -1,4 +1,4 @@
-// Можна додати інтерактивні елементи, наприклад, плавний скролл
+// Плавный скролл для навигации
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
